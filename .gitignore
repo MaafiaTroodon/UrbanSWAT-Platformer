@@ -1,0 +1,44 @@
+\
+# ============ Unity ============
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+UserSettings/
+Packages/com.unity.collab-proxy/
+
+# Visual Studio / JetBrains
+.vs/
+.vscode/
+*.csproj
+*.sln
+*.user
+*.unityproj
+*.pidb
+*.booproj
+*.svd
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Crash/Reports
+*.stacktrace
+
+# Cache
+*.mdb
+*.pdb
+
+# Addressables
+Assets/AddressableAssetsData/*/*.bin*
+
+# Do keep these (tracked by default)
+!Assets/
+!Packages/
+!ProjectSettings/
+!.gitignore
+!.gitattributes
+!README.md
