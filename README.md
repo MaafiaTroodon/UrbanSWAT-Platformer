@@ -7,6 +7,8 @@ You play as a **SWAT operative** battling hostile **vampires** across multiple l
 
 ## 🎮 How to Play
 
+Test it here: https://maafiatroodon.itch.io/urban-swat-platformer
+
 1. **Objective**
    - **Level 1:** Eliminate all enemy vampires and reach the portal at the top platform.
    - **Level 2:** Defeat the final vampire boss and complete the mission.
